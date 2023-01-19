@@ -11,6 +11,8 @@
     "package": "plasmo package"
   },
   "dependencies": {
+    "axios": "^1.2.3",
+    "bip39": "^3.0.4",
     "plasmo": "0.62.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -27,6 +29,9 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
+    ],
+    "permissions": [
+      "contextMenus"
     ]
   }
 }
