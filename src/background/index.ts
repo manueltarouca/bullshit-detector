@@ -1,4 +1,4 @@
-import type { ApiResponse } from '~src/models/types';
+import type { ApiResponse } from '~models/types';
 
 export { }
 // A generic onclick callback function.
