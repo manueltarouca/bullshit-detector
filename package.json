@@ -31,7 +31,9 @@
       "https://*/*"
     ],
     "permissions": [
-      "contextMenus"
+      "contextMenus",
+      "tabs",
+      "notifications"
     ]
   }
 }
